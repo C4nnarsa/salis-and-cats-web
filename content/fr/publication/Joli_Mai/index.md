@@ -2,7 +2,6 @@
 title: "Joli Mai"
 authors:
 - admin
-- Yuko 
 date: "1890-01-01T00:00:00Z"
 #doi: ""
 
@@ -22,6 +21,10 @@ featured: false
 links:
 - name: Youtube
   url: https://youtu.be/NTlu2jxOhS8
+- name: Apple Music
+  url: https://music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en
+- name: Spotify
+  url: https://open.spotify.com/track/02VoZDqIsF07dRSShEY72S?si=d44eafcc0ad9462b
 #url_pdf: '#'
 #url_code: '#'
 #url_dataset: '#'
@@ -57,7 +60,19 @@ projects:
 
 ---
 
+Youtube :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTlu2jxOhS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Apple Music :
+
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en"></iframe>
+
+<br>
+
+Spotify :
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/02VoZDqIsF07dRSShEY72S?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
