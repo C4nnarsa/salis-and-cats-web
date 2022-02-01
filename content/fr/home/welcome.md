@@ -22,6 +22,5 @@ design:
 
 
 <center>
-{{< figure library="true" src="PaulDelmetNOIRtransparent.png" title="" width="400" margin-right="1000">}} 
-{{< figure library="true" src="lameamoureuseNOIR.png" title="" width="400">}} 
+{{< figure library="true" src="titreWelcome.png" title="" width="450">}} 
 </center>

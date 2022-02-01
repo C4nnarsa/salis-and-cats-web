@@ -20,7 +20,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Salis & Cats, editions.
-    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/about'
+    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/featured'
     cta_icon_pack: fab
     cta_icon: youtube
   - title: Decouvrez notre boutique<br/>et précommandez le disque !
