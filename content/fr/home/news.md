@@ -5,7 +5,7 @@ headless: true
 weight: 20
 active: true
 
-title: Actualités et Événements
+title: Actualités
 subtitle:
 
 content:
