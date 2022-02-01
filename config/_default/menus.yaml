@@ -14,7 +14,7 @@ main:
     url: publication
     weight: 40
   - name: Événements
-    url: events
+    url: event
     weight: 50
   - name: L'integrale
     url: publication

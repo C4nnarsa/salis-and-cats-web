@@ -3,12 +3,12 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
+widget: blank  # See https://wowchemy.com/docs/page-builder/
+headless: false  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 #title: |
  # Découvrez l'intégrale 
-#hero_media: welcome.jpg
+#hero_media: lameamoureuseNOIR.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,7 +16,7 @@ design:
   css_style:
   css_class:
 ---
+<center>{{< figure library="true" src="lameamoureuseNOIR.png" title="" width="400">}} 
 
-<br>
-
-Salis & Cats est un label musical indépendant créé par Enguerrand Dubroca.
+# Découvrez l'intégrale des chansons de Paul Delmet 
+</center>
