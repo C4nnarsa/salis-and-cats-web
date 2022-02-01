@@ -8,12 +8,12 @@
 theme: minimal
 day_night: false
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Organization
-local_business_type: ''
+local_business_type: 'Salis & Cats editions'
 org_name: ''
 description: My research group description.
 twitter: ''
