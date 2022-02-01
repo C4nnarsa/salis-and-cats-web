@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: false
-font: native
+font: family=Roboto:wght@100;300
 font_size: M
 
 # SEO

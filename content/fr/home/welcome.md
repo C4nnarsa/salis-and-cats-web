@@ -19,7 +19,9 @@ design:
   css_style:
   css_class:
 ---
-<center>{{< figure library="true" src="lameamoureuseNOIR.png" title="" width="400">}} 
 
-# Découvrez l'intégrale des chansons de Paul Delmet 
+
+<center>
+{{< figure library="true" src="PaulDelmetNOIRtransparent.png" title="" width="400" margin-right="1000">}} 
+{{< figure library="true" src="lameamoureuseNOIR.png" title="" width="400">}} 
 </center>
