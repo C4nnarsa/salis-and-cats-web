@@ -5,7 +5,7 @@ headless: true
 weight: 20
 active: true
 
-title: Nouvelles en avance
+title: À l'une
 subtitle:
 
 content:
