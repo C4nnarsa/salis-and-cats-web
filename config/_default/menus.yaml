@@ -9,7 +9,7 @@ main:
     weight: 20
   - name: Équipe
     url: people
-    weight: 22
+    weight: 15
   - name: L'intégrale
     url: publication
     weight: 10
