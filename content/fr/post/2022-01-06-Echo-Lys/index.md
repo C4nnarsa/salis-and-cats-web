@@ -1,5 +1,5 @@
 ---
-title: "L’Écho de la Lys"
+title: "Enguerrand Dubroca veut faire renaître l’œuvre de Delmet"
 authors:
 - Valérie Perel
 date: "2022-01-06T00:00:00Z"
