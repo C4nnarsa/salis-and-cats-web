@@ -3,6 +3,8 @@ widget: slider
 interval: 5000
 height: 350px
 
+active: false
+
 headless: true
 weight: 20
 
@@ -23,7 +25,7 @@ item:
     cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/featured'
     cta_icon_pack: fab
     cta_icon: youtube
-  - title: Decouvrez notre boutique<br/>et précommandez le disque !
+  - title: Découvrez notre boutique<br/>et précommandez le disque !
     content: '<br/>'
     align: center
     overlay_color: '#98bbcb'
