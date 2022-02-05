@@ -1,5 +1,5 @@
 ---
-title:  Actualités
+title:  Revue de Presse
 
 # View.
 #   1 = List

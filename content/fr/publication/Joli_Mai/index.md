@@ -4,6 +4,8 @@ authors:
 - admin
 date: "1890-01-01T00:00:00Z"
 
+weight: 20
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -28,10 +30,14 @@ image:
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en"></iframe>
 
+##### Nous avons besoin de votre générosité pour accomplir ce projet unique dans l’histoire de la chanson française. Découvrez comment soutenir le projet :
+{{% cta cta_link="./boutique/" cta_text="Boutique →" %}}
+
 <p>Compositeur : Paul Delmet <br>
 Paroles : Albert Tinchant<br>
 Chant : Enguerrand Dubroca<br>
 Piano : Yuko Osawa<br>
 © 2021 Enguerrand Dubroca – Paul Delmet jeune, Don Alain Baude-Defontaine / Collections du Vieux Montmartre<br>
 ℗ 2021 Enguerrand Dubroca, sous licence exclusive à Salis & Cats, editions.</p>
+
 

@@ -28,7 +28,7 @@ item:
     align: center
     overlay_color: '#98bbcb'
     cta_label: Boutique
-    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/about'
+    cta_url: './boutique'
     cta_icon_pack: fas
     cta_icon: shopping-cart
   - title: Visitez notre Crowdfunding<br/>et soutenez le projet !
