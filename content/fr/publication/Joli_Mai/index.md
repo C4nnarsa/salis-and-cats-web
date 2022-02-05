@@ -22,13 +22,13 @@ links:
   url: https://music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en
 
 image:
-  caption: 'Image credit: [**Salis & Cats**]()'
+  caption: 'Image credit: © 2021 Enguerrand Dubroca – Paul Delmet jeune<br> Don Alain Baude-Defontaine / Collections du Vieux Montmartre'
   focal_point: ""
   preview_only: false
 
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en"></iframe>
 
 ##### Nous avons besoin de votre générosité pour accomplir ce projet unique dans l’histoire de la chanson française. Découvrez comment soutenir le projet :
 {{% cta cta_link="./boutique/" cta_text="Boutique →" %}}
@@ -37,7 +37,6 @@ image:
 Paroles : Albert Tinchant<br>
 Chant : Enguerrand Dubroca<br>
 Piano : Yuko Osawa<br>
-© 2021 Enguerrand Dubroca – Paul Delmet jeune, Don Alain Baude-Defontaine / Collections du Vieux Montmartre<br>
 ℗ 2021 Enguerrand Dubroca, sous licence exclusive à Salis & Cats, editions.</p>
 
 
