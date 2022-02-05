@@ -5,7 +5,7 @@
 
 title: Salis & Cats # Website name
 baseurl: '' # Website URL
-copyright: '© 2022 Salis & Cats editions' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Salis & Cats, editions.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

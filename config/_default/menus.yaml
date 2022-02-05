@@ -11,7 +11,7 @@ main:
     url: people
     weight: 22
   - name: Presse
-    url: post
+    url: presse
     weight: 30
   - name: L'intégrale
     url: publication
