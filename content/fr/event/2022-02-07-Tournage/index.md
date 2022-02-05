@@ -4,7 +4,7 @@ title: Tournage du clip officiel
 # event: Générations France Musique, le live
 # event_url: https://www.radiofrance.fr/francemusique/podcasts/generations-france-musique-le-live
 
-location: Lapin Agile
+location: Cabaret au Lapin Agile
 address:
   street: 22 Rue des Saules
  
