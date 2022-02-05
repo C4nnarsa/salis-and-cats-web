@@ -4,8 +4,8 @@ authors:
 - Yves Bertrand
 date: "2021-10-29T00:00:00Z"
 
-categories:Blog
-- Webzine
+categories : 
+- Blog
 
 
 
