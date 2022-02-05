@@ -7,21 +7,18 @@ main:
   - name: Actualités
     url: post
     weight: 10
-  - name: Equipe
+  - name: Équipe
     url: people
-    weight: 20
+    weight: 22
   - name: Presse
     url: post
     weight: 30
-  - name: L'integrale
+  - name: L'intégrale
     url: publication
-    weight: 40
+    weight: 21
   - name: Événements
     url: event
     weight: 50
-  - name: L'integrale
-    url: publication
-    weight: 11
   - name: Boutique
     url: boutique
     weight: 60
