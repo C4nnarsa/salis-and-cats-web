@@ -26,7 +26,7 @@ La marque Salis & Cats a été déposée auprès de l'INPI et est la propriété
 
 Objet : Édition de musique <br>
 Adresse : 42, boulevard Pasteur – 75015 Paris. 
-Téléphone : 01 43 74 90 24
+Téléphone : 09 72 98 56 13
 
 
 Le directeur de la publication est M. Enguerrand Dubroca.<br>
