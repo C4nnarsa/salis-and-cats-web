@@ -1,5 +1,5 @@
 ---
-title: Événements récent et à venir
+title: Événements
 
 # View.
 #   1 = List

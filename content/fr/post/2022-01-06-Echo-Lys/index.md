@@ -1,5 +1,6 @@
 ---
 title: "Enguerrand Dubroca veut faire renaître l’œuvre de Delmet"
+#subtitle:  "PROVA"
 authors:
 - Valérie Perel
 date: "2022-01-06T00:00:00Z"
@@ -14,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 
 #publication_types: ["0"]
 
-abstract: 
+abstract: Article de L’Écho de la Lys
 
 featured: false
 

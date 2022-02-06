@@ -32,4 +32,4 @@ image:
 ---
 « Paul Delmet, l’intégrale »
 
-Laurent Bury a consacré une brève au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre intégrale de Paul Delmet.
+Laurent Bury a consacré une brève au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre  intégrale de Paul Delmet dans le webzine Première Loge dédié à l’actualité lyrique.

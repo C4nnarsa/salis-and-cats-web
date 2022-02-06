@@ -16,10 +16,12 @@ design:
   css_style:
   css_class:
 ---
-Découvrez en premiere mondiale l'intégrale des chansons de **Paul Delmet**, *l'âme amoureuse de la Belle Époque*. 
+Découvrez en première mondiale l'intégrale des chansons de **Paul Delmet**, *l'âme amoureuse de la Belle Époque*. 
 
 Paul Delmet (1862-1904) est un compositeur Montmartrois, considéré par les plus grands artistes de son temps comme une légende de la chanson française, ayant su saisir l’âme de son époque.
 
 Avant que l’intégrale ne sorte en disque, vous pourrez découvrir chaque jour un nouvel inédit tiré de l’intégrale des ses 239 chansons !
 
+Pour mener à bien ce projet inédit et majeur dans l’histoire de la chanson française, nous avons besoin de votre générosité.
+Soutenez le projet !
 

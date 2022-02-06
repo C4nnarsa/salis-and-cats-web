@@ -1,8 +1,8 @@
 ---
 title: "Joyeux 160 ans Paul Delmet"
 authors:
-#- admin
-date: "2021-11-23T00:00:00Z"
+- Charles Arden
+date: "2022-01-14T00:00:00Z"
 
 categories:
 - Webzine
@@ -32,4 +32,4 @@ image:
 ---
 « Joyeux 160 ans Paul Delmet »
 
-Charles Arden a consacré une brève à Paul Delmet dont nous fêtons en 2022 les 160 ans de la naissance, ainsi qu’au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre intégrale du compositeur.
+Charles Arden a consacré une brève à Paul Delmet dont nous fêtons en 2022 les 160 ans de la naissance, ainsi qu’au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre intégrale du compositeur. Ôlyrix est un webzine d’actualités lyriques.

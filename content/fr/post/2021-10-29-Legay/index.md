@@ -32,4 +32,4 @@ image:
   preview_only: false
 
 ---
-Yves Bertrand consacre une brève au travail d’exhumation de la mémoire et l’œuvre de Paul Delmet par Enguerrand Dubroca, et souligne son unicité et sa valeur essentielle pour l’histoire de la chanson française.
+Yves Bertrand, descendant du chansonnier montmartrois Marcel Legay, qui fut contemporain et ami de Paul Delmet, consacre une brève au travail d’exhumation de la mémoire et l’œuvre de Paul Delmet par Enguerrand Dubroca, et souligne son unicité et sa valeur essentielle pour l’histoire de la chanson française.

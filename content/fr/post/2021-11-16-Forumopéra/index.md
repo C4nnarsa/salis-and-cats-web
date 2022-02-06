@@ -34,4 +34,4 @@ image:
 ---
 « Paul Delmet, l’âme amoureuse de la belle époque »
 
-Yvan Beuvard a consacré une brève au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre intégrale de Paul Delmet.
+Yvan Beuvard a consacré une brève au projet colossal mené par Enguerrand Dubroca consistant en l’exhumation de la mémoire et l’œuvre intégrale de Paul Delmet dans le webzine Forumopéra dédié à l’actualité lyrique.
