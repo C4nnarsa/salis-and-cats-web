@@ -25,7 +25,7 @@ Le label Salis & Cats est le nom commercial de la micro-entreprise créée par M
 La marque Salis & Cats a été déposée auprès de l'INPI et est la propriété commerciale exclusive de M. Enguerrand Dubroca.
 
 Objet : Édition de musique <br>
-Adresse : 42, boulevard Pasteur – 75015 Paris. 
+Adresse : 42, boulevard Pasteur – 75015 Paris. <br>
 Téléphone : 09 72 98 56 13
 
 
