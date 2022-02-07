@@ -33,7 +33,7 @@ Le directeur de la publication est M. Enguerrand Dubroca.<br>
 Le concepteur du site internet est M. Daniele Cannarsa.
 
 
-**Herbergement du site :** [le GdS 2754 Mathrice](https://mathrice.fr) MIT License
+**Herbergement du site :** [Netlify](https://www.netlify.com)– 610 22nd Street, Suite 315 CA 94107 San Francisco +1 844-899-7312
 
  
 
