@@ -2,7 +2,7 @@
 title: "Ce juriste célèbre les chansons d’amour de la Belle Époque"
 authors:
 - Élodie Soulié
-date: "2022-03-06T00:00:00Z"
+date: "2022-02-24T00:00:00Z"
 
 categories:
 - Presse écrite
