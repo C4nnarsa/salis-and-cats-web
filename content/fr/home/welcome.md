@@ -20,7 +20,7 @@ design:
   css_class:
 ---
 
-
+![alt text](titreWelcome.png)
 <center>
 {{< figure library="true" src="titreWelcome.png" title="" width="570">}} 
 </center>
