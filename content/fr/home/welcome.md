@@ -8,7 +8,8 @@ headless: false  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 #title: |
  # Découvrez l'intégrale 
-#hero_media: lameamoureuseNOIR.png
+#hero_media: titreWelcome.png
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -21,5 +22,6 @@ design:
 ---
 
 <center>
-{{< figure library="true" src="titreWelcome.png" title="" width="570">}} 
+
+{{< figure src="titreWelcome.png" title="" width="570">}} 
 </center>
