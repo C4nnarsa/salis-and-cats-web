@@ -1,6 +1,6 @@
 ---
 widget: slider
-interval: false
+interval: 6000
 height: 350px
 
 active: true
@@ -17,14 +17,14 @@ item:
     cta_url: './boutique'
     cta_icon_pack: fas
     cta_icon: shopping-cart
-  - title: Visitez notre Crowdfunding<br/>et soutenez le projet !
-    content: '<br/>'
-    align: center
-    overlay_color: '#98bbcb'
-    cta_label: Platform
-    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/about'
-    cta_icon_pack: fas
-    cta_icon: money-bill-wave-alt
+#  - title: Visitez notre Crowdfunding<br/>et soutenez le projet !
+#    content: '<br/>'
+ #   align: center
+ #   overlay_color: '#98bbcb'
+#    cta_label: Platform
+#    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/about'
+#    cta_icon_pack: fas
+#    cta_icon: money-bill-wave-alt
   - title: Visitez notre page Youtube<br/>et abonnez-vous dès maintenant !
     content: '<br/>'
     # Choose `center`, `left`, or `right` alignment.

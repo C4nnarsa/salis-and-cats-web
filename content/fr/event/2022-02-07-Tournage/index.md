@@ -1,5 +1,5 @@
 ---
-title: Tournage du clip officiel
+title: Tournage du clip officiel du projet
 
 # event: Générations France Musique, le live
 # event_url: https://www.radiofrance.fr/francemusique/podcasts/generations-france-musique-le-live
@@ -32,7 +32,7 @@ tags: []
 featured: true
 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit:  © 2022 Pierre-Yves Dubroca, Cabaret au Lapin Agile de Montmartre'
   focal_point: Center
 
 url_code: ""
@@ -56,5 +56,6 @@ url_video: ""
 
 
 ---
+Enguerrand Dubroca et Yuko Osawa ont été reçus dans le cabaret mythique du Lapin Agile à Montmartre, dernier vestige encore vivant du vieux Montmartre que connut Paul Delmet, afin d’y tourner le clip officiel du projet. Nous remercions Yves Mathieu pour son accueil très chaleureux dans ce conservatoire de la chanson française extrêmement inspirant. 
 
 Tournage du clip dans ce musée vivant de Montmartre, dernier survivant du vieux Montmartre qu’a connu Delmet.

@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-La consultation du site web www.salisandcats….. suppose l'acceptation sans réserves des présentes conditions d'utilisation. Les termes "le site" ou "le site web" désignent ci-après le site Internet du label Salis & Cats.
+La consultation du site web www.salisandcats.com suppose l'acceptation sans réserves des présentes conditions d'utilisation. Les termes "le site" ou "le site web" désignent ci-après le site Internet du label Salis & Cats.
 
  
 
@@ -54,7 +54,7 @@ La reproduction de tout ou partie de ce site sur un support électronique quel q
 La reproduction des textes de ce site sur support papier est autorisée, à des fins d'information pour un usage strictement personnel et privé (à des fins pédagogiques par exemple) sous réserve du respect des trois conditions suivantes :
    - Gratuité de la diffusion ; 
    - Respect de l'intégrité des documents reproduits : pas de modification ni altération d'aucune sorte ;
-   - Citation claire et lisible de la source comme suit : «Ce document provient du site Internet XXXXXXX».
+   - Citation claire et lisible de la source comme suit : «Ce document provient du site internet www.salisandcats.com».
    
 Les droits de reproduction sont réservés et strictement limités.
 

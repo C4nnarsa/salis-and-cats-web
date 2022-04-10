@@ -38,6 +38,6 @@ design:
   flip_alt_rows: false
 ---
 
-Faire un texte d’introduction (comme intégrale) et deux items comme « équipe ». Expliquer tout ce que j’ai fait seul et que cette dernière étape ne peut être éditée par un éditeur traditionnel car hors de proportions. Seul le public peut m’aider à accomplir ce travail que j’ai mis à la libre disposition pour cela. Intérêt général, patrimoine, mais aucune financement et milliers d’heures de travail acharné. Mon travail, ainsi que celui de Yuko au piano n’est pas rémunéré par le financement, qui ne sert qu’à payer le mastering et l’impression.
+Contribuez à l’exhumation d’un pan essentiel en ancestral de la culture populaire française et découvrez toute la quintessence de l’art de Paul Delmet en achetant le disque de sélection des plus belles chansons de l’intégrale !
 
-Vous pouvez acheter le disque, quintessence de l’œuvre et/ou contribuer directement à l’édition de l’intégrale physique.
+Art populaire, mais noble, grâce auquel Paul Delmet a pu saisir l’âme amoureuse de la Belle Epoque. Ce disque reflète fidèlement toute l’expressivité et l’inventivité de l’intégrale retrouvée.
