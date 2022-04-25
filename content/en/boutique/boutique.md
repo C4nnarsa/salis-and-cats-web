@@ -27,7 +27,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
@@ -38,6 +38,6 @@ design:
   flip_alt_rows: false
 ---
 
-Faire un texte d’introduction (comme intégrale) et deux items comme « équipe ». Expliquer tout ce que j’ai fait seul et que cette dernière étape ne peut être éditée par un éditeur traditionnel car hors de proportions. Seul le public peut m’aider à accomplir ce travail que j’ai mis à la libre disposition pour cela. Intérêt général, patrimoine, mais aucune financement et milliers d’heures de travail acharné. Mon travail, ainsi que celui de Yuko au piano n’est pas rémunéré par le financement, qui ne sert qu’à payer le mastering et l’impression.
+Contribuez à l’exhumation d’un pan essentiel et ancestral de la culture populaire française et découvrez toute la quintessence de l’art de Paul Delmet avec le disque de sélection des plus belles chansons de l’intégrale !
 
-Vous pouvez acheter le disque, quintessence de l’œuvre et/ou contribuer directement à l’édition de l’intégrale physique.
+Populaire et noble, l’art chansonnier de Paul Delmet l’a conduit à dessiner en une immense fresque ce qu’était l’âme amoureuse de la Belle Epoque. Les chansons sélectionnées sur ce disque reflètent fidèlement toute l’expressivité et l’inventivité de l’intégrale retrouvée.

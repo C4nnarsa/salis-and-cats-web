@@ -30,3 +30,5 @@ design:
 ---
 
 Salis & Cats est un label musical indépendant créé par Enguerrand Dubroca, qui a pour vocation de produire, éditer et faire connaître le répertoire de la chanson poétique populaire française de la Belle Époque, tout particulièrement celui qui fit le succès des cabarets littéraires et artistiques Montmartrois. Il rend hommage à Rodolphe Salis qui fonda le tout premier cabaret littéraire et artistique, le Chat Noir.
+
+<br>

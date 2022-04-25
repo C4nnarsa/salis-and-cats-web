@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: featured
 headless: true
 weight: 20
-active: false
+active: true
 
-title: Actualités et Événements
+title: À la une
 subtitle:
 
 content:
-  count: 5
+  count: 2
   filters:
     author: ""
     category: ""
