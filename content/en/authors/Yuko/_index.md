@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Équipe
+- The team
 ---
 
 Née au Japon, Yuko commence le piano dès l’âge de deux ans. Passionnée de littérature et de philosophie, elle étudie l’esthétique à l'Université de Tokyo, puis obtient un master de piano solo à la Musashino Academia Musicae où elle rencontre Junji Mitsuishi, chef de chant, qui la conduit vers ce métier. En 2016, après cinq années d’activité musicale professionnelle au Japon, sa passion pour le répertoire vocal, particulièrement français, l’amène à Paris où elle intègre l’Ecole Normale de Musique dotée d’une bourse du Rotary Club. Elle est lauréate de la Fondation Royaumont (2019 et 2020), participe actuellement au projet de l’Opera a Palazzo (La Traviata), fait partie de la compagnie Stein-lein-chen qui promeut des spectacles lyriques à destination des espaces publics (Rencontres : Prix du OFF Festival Sorties de Bain 2018) ou aux jeunes publics (Youkali : tournée Jeunesses Musicales de France 2021-22), et de la compagnie Vivre dans le feu (Concerts sous vos fenêtres).

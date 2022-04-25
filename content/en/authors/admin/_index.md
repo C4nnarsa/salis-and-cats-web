@@ -29,7 +29,7 @@ social:
 #  courses: []
 superuser: true
 user_groups:
-  - Équipe
+  - The team
 highlight_name: false
 email: ""
 ---

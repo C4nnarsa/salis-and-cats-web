@@ -1,6 +1,6 @@
 ---
 title: Paul Delmet - Les plus belles chansons de l'intégrale
-summary: CD Digipack avec livret de 32 pages. 25 chansons. 66 minutes
+summary: CD Digipack avec livret de 32 pages. 25 chansons / 66 minutes
 #tags:
 #- Deep Learning
 date: "2022-04-25T00:00:00Z"
