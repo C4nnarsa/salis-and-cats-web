@@ -42,8 +42,8 @@ role: Pianiste
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: browser
-  icon_pack: fab
+- icon: window-maximize
+  icon_pack: far
   link: https://yuko-osawa.com/fr/
 - icon: instagram
   icon_pack: fab

@@ -28,7 +28,8 @@ social:
 #education:
 #  courses: []
 superuser: true
-user_groups: ["Équipe"]
+user_groups:
+  - Équipe
 highlight_name: false
 email: ""
 ---

@@ -2,7 +2,6 @@
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
-active: true
 
 # This file represents a page section.
 headless: true
@@ -21,6 +20,6 @@ content:
 
 design:
   show_interests: false
-  show_role: false
-  show_social: false
+  show_role: true
+  show_social: true
 ---
