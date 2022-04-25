@@ -38,6 +38,6 @@ design:
   flip_alt_rows: false
 ---
 
-Contribuez à l’exhumation d’un pan essentiel en ancestral de la culture populaire française et découvrez toute la quintessence de l’art de Paul Delmet en achetant le disque de sélection des plus belles chansons de l’intégrale !
+Contribuez à l’exhumation d’un pan essentiel et ancestral de la culture populaire française et découvrez toute la quintessence de l’art de Paul Delmet avec le disque de sélection des plus belles chansons de l’intégrale !
 
-Art populaire, mais noble, grâce auquel Paul Delmet a pu saisir l’âme amoureuse de la Belle Epoque. Ce disque reflète fidèlement toute l’expressivité et l’inventivité de l’intégrale retrouvée.
+Populaire et noble, l’art chansonnier de Paul Delmet l’a conduit à dessiner en une immense fresque ce qu’était l’âme amoureuse de la Belle Epoque. Les chansons sélectionnées sur ce disque reflètent fidèlement toute l’expressivité et l’inventivité de l’intégrale retrouvée.

@@ -14,3 +14,7 @@ Les chansons de Paul Delmet sont l’occasion de s’interroger sur l’identit�
 Chaque chanson est accompagnée d’une chronique, qui vous permet de mieux connaître l’univers dans lequel baignait Paul Delmet, celui des cabarets artistiques et littéraires Montmartrois, du Paris de la Belle Epoque, mais aussi de découvrir l’homme, ses paroliers, l’histoire de la chanson française, et enfin d’analyser son œuvre. Des visuels sont associés à chaque chanson, lesquels sont issus de l’art populaire de la Belle Epoque, à savoir des cartes postales qui apparurent et connurent un essor incroyable à la fin du XIXe siècle, des photographies, dont certaines inédites de Paul Delmet, ainsi que quelques affiches et lithographies. Vous plongerez ainsi pleinement dans l’imaginaire populaire retrouvé de cette époque, tout en sachant comment on se disait « je t’aime ».
 
 Enfin, l’art chansonnier est une tradition française ancestrale qui connut un lustre et une noblesse renouvelés grâce à l’attention que lui porta Paul Delmet à la Belle Époque. L’exhumation de son oeuvre est le moyen le plus éclatant de mettre en valeur cet héritage culturel de très haute valeur, tout en rendant hommage à l’un de ses plus fameux représentants.
+
+{{% callout warning %}}
+Page encore en construction, les titres de l’intégrale vont arriver progressivement !
+{{% /callout %}}
