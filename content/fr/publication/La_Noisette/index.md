@@ -8,7 +8,7 @@ date: "2021-10-26T00:00:00Z"
 weight: 20
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-11-05T00:00:00Z"
 
 #publication_types: ["0"]
 
