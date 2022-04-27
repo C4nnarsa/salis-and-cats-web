@@ -32,7 +32,7 @@ tags: []
 featured: true
 
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: © 2022 Enguerrand Dubroca'
   focal_point: Center
 
 url_code: ""
@@ -66,6 +66,7 @@ Pour promouvoir le disque, je suis très heureux de vous présenter le teaser of
 </p>
 
 ##### Découvrez comment acheter le disque en visitant notre boutique.
+
 
 {{% cta cta_link="/boutique/" cta_text="Boutique →" %}}
 
