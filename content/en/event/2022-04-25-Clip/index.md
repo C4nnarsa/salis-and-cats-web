@@ -65,7 +65,7 @@ Pour promouvoir le disque, je suis très heureux de vous présenter le teaser of
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lDFNZfIoUBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Découvrez comment acheter le disque en visitant notre boutique.
+##### Découvrez comment acheter le disque en visitant notre boutique.
 
 {{% cta cta_link="/en/boutique/" cta_text="Shop →" %}}
 
