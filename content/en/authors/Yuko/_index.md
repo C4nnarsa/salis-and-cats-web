@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Pianiste
+role: Pianist
 
 # Organizations/Affiliations
 #organizations:

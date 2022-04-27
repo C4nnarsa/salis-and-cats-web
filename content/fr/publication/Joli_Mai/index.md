@@ -2,6 +2,7 @@
 title: "Joli Mai"
 authors:
 - admin
+- Albert Tinchant
 date: "2021-10-25T00:00:00Z"
 
 weight: 20

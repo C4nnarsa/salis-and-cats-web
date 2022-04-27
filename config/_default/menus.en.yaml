@@ -1,0 +1,24 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Press
+    url: post
+    weight: 20
+  - name: People
+    url: people
+    weight: 15
+  - name: Complete Collection
+    url: publication
+    weight: 10
+  - name: Events
+    url: event
+    weight: 50
+  - name: Shop
+    url: boutique
+    weight: 60
+  - name: Contact
+    url: contact
+    weight: 70

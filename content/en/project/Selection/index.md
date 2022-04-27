@@ -1,6 +1,6 @@
 ---
-title: Paul Delmet - Les plus belles chansons de l'intégrale
-summary: CD Digipack avec livret de 32 pages. 25 chansons / 66 minutes
+title: Paul Delmet - The finest songs of the collection
+summary: CD Digipack with a booklet of 32 pages. 25 songs / 66 minutes
 #tags:
 #- Deep Learning
 date: "2022-04-25T00:00:00Z"
@@ -17,7 +17,7 @@ image:
 links:
 - icon: shopping-cart
   icon_pack: fas
-  name: Acheter sur Bandcamp
+  name: Buy on Bandcamp
   url: https://enguerranddubroca.bandcamp.com/album/les-plus-belles-chansons-de-lint-grale-paul-delmet
 url_code: ""
 url_pdf: ""
@@ -32,10 +32,10 @@ url_video: ""
 slides: example
 ---
 
-Le disque est actuellement et exclusivement en vente sur le site Bandcamp !
+The disc is currently for sale exclusively on Bandcamp!
 
-CD Digipack avec livret de 32 pages
-			
-25 chansons / 66 minutes
-			
-*Paiement Paypal sécurisé*
+Digipack CD with 32-page booklet in french
+
+25 songs / 66 minutes
+
+*Secure PayPal payment*

@@ -1,5 +1,5 @@
 ---
-title: Événements
+title: Events and News
 
 # View.
 #   1 = List

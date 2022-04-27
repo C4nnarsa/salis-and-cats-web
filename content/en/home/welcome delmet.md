@@ -16,9 +16,9 @@ design:
   css_style:
   css_class:
 ---
-Découvrez *en première mondiale* l’intégrale des chansons de **Paul Delmet** (1862-1904). Chaque jour pendant 239 jours, un nouvel inédit tiré de l’intégrale vous est proposé à l’écoute !
+Discover the *world premiere* complete collection of songs by **Paul Delmet** (1862-1904). Every day for 239 days, a new original from the collection is currently offered to you!
 
-**Paul Delmet** est un compositeur Montmartrois, considéré par les plus grands artistes de son temps comme *une légende de la chanson française, ayant su saisir l’âme amoureuse de l’a Belle Époque*.
+**Paul Delmet** is a composer from Montmartre, considered by the greatest artists of his time as *a legend of French song, having been able to capture the loving soul of the Belle Époque*.
 
-Soutenez ce projet unique de valorisation de la mémoire et la culture françaises en vous procurant **le disque de sélection** des 25 plus belles chansons de l’intégrale, qui réunit toute la quintessence de l’art de Paul Delmet.
+Support this unique project to promote French memory and culture by purchasing the **selection disc** of the 25 most beautiful songs of the complete collection, which brings together all the quintessence of the art of Paul Delmet.
 

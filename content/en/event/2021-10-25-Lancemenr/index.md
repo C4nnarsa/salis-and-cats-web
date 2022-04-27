@@ -64,6 +64,6 @@ Autre symbole, les publications se termineront le 17 juin, date anniversaire de 
 La note d’intention ci-dessus, diffusée le 21 octobre 2021, annonçait les grandes lignes de ce projet fou et unique, fruit du travail colossal d’Enguerrand Dubroca.
 Soutenez ce projet unique dans l’histoire de la chanson française ! Nous avons besoin de votre générosité pour le mener à son terme.
 
-{{% cta cta_link="./boutique/" cta_text="Soutiens le projet →" %}}
+{{% cta cta_link="/boutique/" cta_text="Soutiens le projet →" %}}
 
 {{% staticref "uploads/NoteIntention.pdf" %}}Telecharge ici la Note d'intention{{% /staticref %}}

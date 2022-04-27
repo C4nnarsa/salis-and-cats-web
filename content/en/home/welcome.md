@@ -23,5 +23,5 @@ design:
 
 <center>
 
-{{< figure src="titreWelcome.png" title="" width="570">}} 
+{{< figure src="titreWelcomeENG.png" title="" width="570">}} 
 </center>

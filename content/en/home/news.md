@@ -5,7 +5,7 @@ headless: true
 weight: 20
 active: true
 
-title: À la une
+title: Featured
 subtitle:
 
 content:

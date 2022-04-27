@@ -1,6 +1,6 @@
 ---
 title: Enguerrand Dubroca
-role: Fondateur du label <br> Producteur <br> Ténor
+role: Founder of the label <br> Producer <br> Tenor
 avatar_filename: avatar.jpg
 # bio :
 #interests:

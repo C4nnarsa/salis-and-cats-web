@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 10
 # ... Put Your Section Options Here (title etc.) ...
 
-title : Boutique
+title : Shop
 
 content:
   # Page type to display. E.g. project.
@@ -38,6 +38,6 @@ design:
   flip_alt_rows: false
 ---
 
-Contribuez à l’exhumation d’un pan essentiel et ancestral de la culture populaire française et découvrez toute la quintessence de l’art de Paul Delmet avec le disque de sélection des plus belles chansons de l’intégrale !
+Contribute to the exhumation of an essential and ancestral part of French popular culture and discover all the quintessence of the art of Paul Delmet, with the selection disc of the most beautiful songs of the collection!
 
-Populaire et noble, l’art chansonnier de Paul Delmet l’a conduit à dessiner en une immense fresque ce qu’était l’âme amoureuse de la Belle Epoque. Les chansons sélectionnées sur ce disque reflètent fidèlement toute l’expressivité et l’inventivité de l’intégrale retrouvée.
+Popular and noble, the songwriting art of Paul Delmet led him to draw in an immense portrait of the loving soul of the Belle Epoque. The songs selected on this disc faithfully reflect all the expressiveness and inventiveness of the complete collection.

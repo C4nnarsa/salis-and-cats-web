@@ -9,11 +9,11 @@ headless: true
 weight: 20
 
 item:
-  - title: Découvrez notre boutique<br/>et commandez le disque !
+  - title: Discover our shop<br/>and buy the disc!
     content: '<br/>'
     align: center
     overlay_color: '#d7bfb6'
-    cta_label: Boutique
+    cta_label: Shop
     cta_url: './boutique'
     cta_icon_pack: fas
     cta_icon: shopping-cart
@@ -25,7 +25,7 @@ item:
 #    cta_url: 'https://www.youtube.com/channel/UCpskbazAPxxHwwZgHZM5YOA/about'
 #    cta_icon_pack: fas
 #    cta_icon: money-bill-wave-alt
-  - title: Visitez notre page Youtube<br/>et abonnez-vous dès maintenant !
+  - title: Visit our Youtube<br/>page and subscribe now!
     content: '<br/>'
     # Choose `center`, `left`, or `right` alignment.
     align: center

@@ -1,5 +1,5 @@
 ---
-title:  Revue de Presse
+title:  Press review
 
 # View.
 #   1 = List

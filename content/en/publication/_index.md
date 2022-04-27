@@ -1,5 +1,5 @@
 ---
-title: Intégrale des chansons
+title: The collection of songs by Paul Delmet
 view: 2
 
 header: 
@@ -16,5 +16,5 @@ Chaque chanson est accompagnée d’une chronique, qui vous permet de mieux conn
 Enfin, l’art chansonnier est une tradition française ancestrale qui connut un lustre et une noblesse renouvelés grâce à l’attention que lui porta Paul Delmet à la Belle Époque. L’exhumation de son oeuvre est le moyen le plus éclatant de mettre en valeur cet héritage culturel de très haute valeur, tout en rendant hommage à l’un de ses plus fameux représentants.
 
 {{% callout warning %}}
-Page encore en construction, les titres de l’intégrale vont arriver progressivement !
+Page still under construction, the titles of the integral will arrive gradually!
 {{% /callout %}}
