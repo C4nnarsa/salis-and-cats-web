@@ -1,5 +1,5 @@
 ---
-title: Mise en vente du CD et presentation du clip officiel
+title: Mise en vente du CD et présentation du clip officiel
 
 # event: Générations France Musique, le live
 # event_url: https://www.radiofrance.fr/francemusique/podcasts/generations-france-musique-le-live
