@@ -1,7 +1,7 @@
 ---
 title: "Paul Delmet en japonais"
 authors:
-- Yuko Osawa
+- Association de Nagano
 date: "2022-03-31T00:00:00Z"
 
 categories : 
@@ -21,7 +21,7 @@ abstract:
 featured: false
 
 links:
-- name: Lire sur le site de l'association Nagano
+- name: Lire sur le site de l'association de Nagano
   url: http://www.nagano-france.org/03/_vol83.html
 #- name: Apple Music
 #  url: https://music.apple.com/it/album/joli-mai/1593401937?i=1593401938&l=en
