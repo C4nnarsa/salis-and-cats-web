@@ -32,4 +32,4 @@ image:
   preview_only: false
 
 ---
-Jean-Luc Vannier consacre une magnifique critique à la sortie du disque Paul Delmet « Les plus chansons de l’intégrale » pour le webzine Musicologie.org. 
+Jean-Luc Vannier consacre une magnifique critique à la sortie du disque Paul Delmet « Les plus belles chansons de l’intégrale » pour le webzine Musicologie.org. 
