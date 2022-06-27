@@ -1,5 +1,5 @@
 ---
-title: "Les hommes d’ici"
+title: "Version Fémina Région Nord, « Les hommes d’ici »"
 authors:
 - Mathilde Dambuyant
 date: "2022-06-11T00:00:00Z"
