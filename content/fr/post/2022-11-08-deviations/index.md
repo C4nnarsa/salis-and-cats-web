@@ -5,7 +5,7 @@ authors:
 date: "2022-11-08T00:00:00Z"
 
 categories : 
-- Presse écrite
+- Webzine
 
 
 
