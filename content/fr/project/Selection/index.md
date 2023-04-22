@@ -38,4 +38,5 @@ CD Digipack avec livret de 32 pages
 			
 25 chansons / 66 minutes
 			
-*Paiement Paypal sécurisé*. A défaut de compte Paypal, le paiement par chèque est possible. Pour en savoir plus contacter salisandcats@outlook.com
+*Paiement Paypal sécurisé*. <br>
+A défaut de compte Paypal, le paiement par chèque est possible : pour en savoir plus contacter salisandcats@outlook.com
