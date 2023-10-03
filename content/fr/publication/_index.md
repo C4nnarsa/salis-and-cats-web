@@ -1,6 +1,6 @@
 ---
 title: Intégrale des chansons
-view: 2
+view: 1
 
 header: 
   caption: ""
